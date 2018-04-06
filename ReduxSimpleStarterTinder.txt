@@ -1,0 +1,7 @@
+cd C:\Ralph\WEBDEVELOPMENT\JavaDevelopment\ModernReactReduxSGrider\ReduxSimpleStarterTinder
+
+
+npm start
+
+
+http://localhost:8080
